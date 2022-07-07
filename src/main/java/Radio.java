@@ -13,7 +13,11 @@ public class Radio {
         this.maxStation = countRadio - 1;
         this.currentStation = countRadio - 1;
     }
-
+    public Radio(){
+        this.countRadio = countRadio;
+        this.maxStation = countRadio - 1;
+        this.currentStation = countRadio - 1;
+    }
 
     public int getCurrentStation() {
         return currentStation;

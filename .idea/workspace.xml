@@ -5,7 +5,6 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="51cd3b6d-8edd-44fe-b20f-be89a334fd86" name="Changes" comment="&quot;Ok&quot;">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/Radio.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Radio.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/test/java/RadioTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/RadioTest.java" afterDir="false" />
     </list>
@@ -54,7 +53,7 @@
       <command value="mvn clean verify" />
     </option>
   </component>
-  <component name="RunManager" selected="JUnit.RadioTest">
+  <component name="RunManager" selected="JUnit.RadioTest.shouldSetCountRadio">
     <configuration name="RadioTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="lesson10" />
       <option name="PACKAGE_NAME" value="" />
@@ -106,10 +105,10 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="JUnit.RadioTest" />
-        <item itemvalue="JUnit.RadioTest.shouldnextStation (1)" />
         <item itemvalue="JUnit.RadioTest.shouldSetCountRadio" />
         <item itemvalue="JUnit.RadioTest.shouldSetStation" />
+        <item itemvalue="JUnit.RadioTest" />
+        <item itemvalue="JUnit.RadioTest.shouldnextStation (1)" />
         <item itemvalue="JUnit.RadioTest.shouldprevVolume" />
       </list>
     </recent_temporary>
